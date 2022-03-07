@@ -1,0 +1,4 @@
+{
+  "db": "mongodb+srv://amira:1234@cluster0.pp8ap.mongodb.net/amira?retryWrites=true&w=majority",
+  "secret": "hello"
+}
